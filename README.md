@@ -1,4 +1,4 @@
-ThreadsPool
+ThreadPool
 ===========
 
 An example of threadings pools
